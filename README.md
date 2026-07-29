@@ -1,0 +1,1 @@
+# 02_fund_redes_neurais_mlp_cifar_10
