@@ -57,7 +57,7 @@ Entre as classes presentes encontram-se aviões, automóveis, pássaros, gatos, 
 
 Este projeto é um "raio-X" das redes neurais, focando nos fundamentos que muitas vezes são abstraídos por bibliotecas modernas:
 
-**Backpropagation Manual:** A implementação da retropropagação (com dout = ...) é o coração do projeto. Calcular os gradientes manualmente para a camada de saída e a camada oculta (ReLU) solidifica o entendimento de como o erro é propagado para trás na rede.
+* **Backpropagation Manual:** A implementação da retropropagação (com dout = ...) é o coração do projeto. Calcular os gradientes manualmente para a camada de saída e a camada oculta (ReLU) solidifica o entendimento de como o erro é propagado para trás na rede.
 
 * **Verificação de Gradientes (Gradient Checking):** A utilização da diferença finita para verificar numericamente os gradientes é uma etapa crucial, comum no desenvolvimento de modelos de deep learning, e demonstra uma abordagem profissional de validação de código.
 
